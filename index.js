@@ -14,4 +14,4 @@ window.addEventListener("scroll", () => {
         navbarEl.classList.remove("active");
     }
 });
-w
+
